@@ -36,3 +36,6 @@ SQL, Excel
 
 ## Дашборды
 ### [Аналитический дашборд для агенства недвижимости](https://datalens.yandex/e7jnkm6qeowk0)
+### [Анализ конференций TED](https://datalens.yandex/yq7x9vkfap40k)
+### [Анализ ключевых метрик в сервисе доставки еды](https://datalens.yandex/itspkooreoo04)
+### [Финансовый анализ для Яндекс.Афиша](https://datalens.yandex/j3qfthk5fyga5)
